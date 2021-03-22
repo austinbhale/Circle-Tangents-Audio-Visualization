@@ -1,6 +1,9 @@
 # Circle Tangents Audio Visuals
 Project made with Unity 2020.1.0f1.
 
+### Used here in my audio immersive game: The Lounge
+[![The Lounge](https://img.youtube.com/vi/U3otkYJlQe8/0.jpg)](https://www.youtube.com/watch?v=U3otkYJlQe8)
+
 ### For more guidance on how this works, check out parts 0-4 of PeerPlay's Circle Tangent tutorial
 [![PeerPlay Tutorial](https://img.youtube.com/vi/osZF7BCB8kk/0.jpg)](https://www.youtube.com/watch?v=osZF7BCB8kk)
 
